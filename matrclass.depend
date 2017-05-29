@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1485578849 source:c:\users\Севастьян\desktop\matrclass\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	"matrix.h"
+
+1485581037 source:c:\users\Севастьян\desktop\matrclass\matrix.cpp
+	"matrix.h"
+	<iostream>
+	<math.h>
+
+1485581052 c:\users\Севастьян\desktop\matrclass\matrix.h
+
